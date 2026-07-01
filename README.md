@@ -22,11 +22,13 @@ The project also includes a **Streamlit web application** where users can upload
 ## 🛠 Technologies Used
 
 - Python
+- Streamlit
+- Scikit-learn
 - Pandas
 - NumPy
-- Scikit-learn
+- Matplotlib
+- Seaborn
 - Joblib
-- Streamlit
 
 ---
 
