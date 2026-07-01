@@ -121,7 +121,7 @@ CreditCardFraudDetection/
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Credit-Card-Fraud-Detection.git
+git clone https://github.com/TamaliM174/creditcardfrauddetection.git
 ```
 
 Go to project folder
